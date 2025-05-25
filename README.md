@@ -26,3 +26,5 @@ flutter run
 cd backend_folder
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+#### Make sure to configure your .env file for Telegram tokens, DB URL, etc.
